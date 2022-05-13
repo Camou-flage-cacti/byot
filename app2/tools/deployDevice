@@ -5,8 +5,8 @@ import subprocess
 import argparse
 
 # the directory to mount the sd card to
-BOOT_MNT = '/media/tomal/boot'
-SSC_MNT = '/media/tomal/root'
+BOOT_MNT = '/media/user/boot'
+SSC_MNT = '/media/user/root'
 
 # the names to copy the boot and mes files to on the sd card
 BOOT_FILE = 'BOOT.bin'

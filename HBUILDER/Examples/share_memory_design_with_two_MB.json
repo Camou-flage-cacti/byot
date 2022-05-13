@@ -8,7 +8,7 @@
   "Project": {
     "Folder_Name" : "Shared_mem_with_two_MB",
     "Name": "Project_Shared_mem_with_two_MB",
-    "Location": "/home/tomal/Downloads/Test/"
+    "Location": "/home/user/Downloads/Test/"
   },
   "REE": {
     "Clock_Speed": "50MHz",

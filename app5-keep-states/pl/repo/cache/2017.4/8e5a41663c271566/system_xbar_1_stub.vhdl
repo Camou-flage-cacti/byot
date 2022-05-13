@@ -2,7 +2,7 @@
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2017.4 (lin64) Build 2086221 Fri Dec 15 20:54:30 MST 2017
 -- Date        : Tue Jul 20 12:49:40 2021
--- Host        : tomal running 64-bit Ubuntu 20.04.2 LTS
+-- Host        : user running 64-bit Ubuntu 20.04.2 LTS
 -- Command     : write_vhdl -force -mode synth_stub -rename_top decalper_eb_ot_sdeen_pot_pi_dehcac_xnilix -prefix
 --               decalper_eb_ot_sdeen_pot_pi_dehcac_xnilix_ system_xbar_1_stub.vhdl
 -- Design      : system_xbar_1

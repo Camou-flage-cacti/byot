@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------
 --Tool Version: Vivado v.2017.4 (lin64) Build 2086221 Fri Dec 15 20:54:30 MST 2017
 --Date        : Fri Jul 23 14:59:29 2021
---Host        : tomal running 64-bit Ubuntu 20.04.2 LTS
+--Host        : user running 64-bit Ubuntu 20.04.2 LTS
 --Command     : generate_target system_wrapper.bd
 --Design      : system_wrapper
 --Purpose     : IP block netlist
