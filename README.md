@@ -61,4 +61,4 @@ source /home/user_name/.bashrc
 4. Regenerate the BSP file, sometimes it may not update properly. Then delete the current BSP and create a new BSP project with the same name.
 
 * If  generation has have any errors, delete the **test** project in ``pl/proj``. Re-run the hardware generation script.
-* For each project **boot-image** folder and **BOOT.bin** are the same.
+* For each project **boot-image** folder and **BOOT.bin** are the same. 
